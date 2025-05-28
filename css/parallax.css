@@ -1,0 +1,23 @@
+.img-parallax-03 {
+    position: absolute;
+    z-index: -2;
+    display: block;
+  }
+  
+  .img-parallax-04 {
+    position: absolute;
+    z-index: -1;
+    display: block;
+  }
+  
+  .img-parallax-02 {
+    position: absolute;
+    /* padding-left: 154px; */
+  }
+  
+  .img-parallax-01 {
+    position: absolute;
+    display: block; 
+    padding-top: 0px;
+  }
+  
